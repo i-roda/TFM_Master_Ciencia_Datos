@@ -13,7 +13,7 @@ El proyecto se organiza en dos notebooks principales que contienen todo el proce
   - Carga y exploración inicial de datos
   - Limpieza y tratamiento de valores ausentes
   - Análisis de correlaciones entre variables
-  - Transformación y normalización de características
+  - Transformación y normalización de variables
   - Generación de nuevas variables relevantes
   - Preparación final del dataset para el entrenamiento
 
@@ -22,8 +22,7 @@ El proyecto se organiza en dos notebooks principales que contienen todo el proce
   - Optimización de hiperparámetros
   - Entrenamiento del modelo final
   - Evaluación de resultados mediante métricas relevantes
-  - Análisis de importancia de características
-  - Visualización de resultados y conclusiones
+  - Visualización de resultados
 
 ## Instrucciones de uso
 
